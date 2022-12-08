@@ -4,11 +4,12 @@
         <div class="col-four pricing-intro">
             <h1 class="intro-header" data-aos="fade-up">Our Service Options</h1>
 
-            <p data-aos="fade-up">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.
+            <p data-aos="fade-up">
+                <?= $data->our_services; ?>
             </p>
         </div>
 
-        <div class="col-eight pricing-table">
+        <!-- <div class="col-eight pricing-table">
             <div class="row">
 
                 <div class="col-six plan-wrap">
@@ -32,7 +33,7 @@
                         </div>
 
                     </div>
-                </div> <!-- end plan-wrap -->
+                </div> 
 
                 <div class="col-six plan-wrap">
                     <div class="plan-block primary" data-aos="fade-up">
@@ -55,10 +56,11 @@
                         </div>
 
                     </div>
-                </div> <!-- end plan-wrap -->
+                </div> 
 
             </div>
-        </div> <!-- end pricing-table -->
+        </div>  -->
+        <!-- end pricing-table -->
 
     </div> <!-- end pricing-content -->
 </section> <!-- end pricing -->

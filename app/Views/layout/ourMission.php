@@ -7,13 +7,16 @@
         </div>
         <div class="col-eight">
             <p class="lead" data-aos="fade-up">
-                Excepteur enim magna veniam labore veniam sint. Ex aliqua esse proident ullamco voluptate. Nisi nisi nisi aliqua eiusmod dolor dolor proident deserunt occaecat elit Lorem reprehenderit. Id culpa veniam ex aliqua magna elit pariatur do nulla. Excepteur enim magna veniam labore veniam sint.
+
+                <span style="white-space: pre-line"><?= $data->our_mission; ?></span>
+                <!-- Excepteur enim magna veniam labore veniam sint. Ex aliqua esse proident ullamco voluptate. Nisi nisi nisi aliqua eiusmod dolor dolor proident deserunt occaecat elit Lorem reprehenderit. Id culpa veniam ex aliqua magna elit pariatur do nulla. Excepteur enim magna veniam labore veniam sint. -->
             </p>
         </div>
 
     </div>
 
-    <div class="row about-features">
+
+    <!-- <div class="row about-features">
 
         <div class="features-list block-1-3 block-m-1-2 block-mob-full group">
 
@@ -30,7 +33,7 @@
 
                 </div>
 
-            </div> <!-- /bgrid -->
+            </div>
 
             <div class="bgrid feature" data-aos="fade-up">
 
@@ -45,7 +48,7 @@
 
                 </div>
 
-            </div> <!-- /bgrid -->
+            </div>
 
             <div class="bgrid feature" data-aos="fade-up">
 
@@ -59,7 +62,7 @@
 
                 </div>
 
-            </div> <!-- /bgrid -->
+            </div> 
 
             <div class="bgrid feature" data-aos="fade-up">
 
@@ -73,7 +76,7 @@
 
                 </div>
 
-            </div> <!-- /bgrid -->
+            </div> 
 
             <div class="bgrid feature" data-aos="fade-up">
 
@@ -86,7 +89,7 @@
                     </p>
                 </div>
 
-            </div> <!-- /bgrid -->
+            </div> 
 
             <div class="bgrid feature" data-aos="fade-up">
 
@@ -100,13 +103,13 @@
 
                 </div>
 
-            </div> <!-- /bgrid -->
+            </div>
 
-        </div> <!-- end features-list -->
+        </div> 
 
-    </div> <!-- end about-features -->
+    </div> -->
 
-    <div class="row about-how">
+    <!-- <div class="row about-how">
 
         <h1 class="intro-header" data-aos="fade-up">How The App Works?</h1>
 
@@ -138,9 +141,9 @@
                 </div>
 
             </div>
-        </div> <!-- end about-how-content -->
+        </div> 
 
-    </div> <!-- end about-how -->
+    </div>  -->
 
     <div class="row about-bottom-image">
 

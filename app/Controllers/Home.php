@@ -6,6 +6,13 @@ class Home extends BaseController
 {
     public function index()
     {
-        return view('layout/template');
+        $db = \Config\Database::connect();
+        $builder = $db->table('settings');
+        $builder->select('*');
+        $data = $builder->get()->getFirstRow();
+
+        return view('layout/template', [
+            'data' => $data,
+        ]);
     }
 }
