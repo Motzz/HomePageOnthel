@@ -108,42 +108,39 @@
         </div> 
 
     </div> -->
+    <div class="about-how-content" data-aos="fade-up">
+        <div class="about-how-steps block-1-2 block-tab-full group">
 
-    <!-- <div class="row about-how">
-
-        <h1 class="intro-header" data-aos="fade-up">How The App Works?</h1>
-
-        <div class="about-how-content" data-aos="fade-up">
-            <div class="about-how-steps block-1-2 block-tab-full group">
-
-                <div class="bgrid step" data-item="1">
-                    <h3>Sign-Up</h3>
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-                    </p>
-                </div>
-
-                <div class="bgrid step" data-item="2">
-                    <h3>Upload</h3>
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-                    </p>
-                </div>
-
-                <div class="bgrid step" data-item="3">
-                    <h3>Create</h3>
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-                    </p>
-                </div>
-
-                <div class="bgrid step" data-item="4">
-                    <h3>Publish</h3>
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-                    </p>
-                </div>
-
+            <div class="bgrid step" data-item="1">
+                <h3>Sign-Up</h3>
+                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+                </p>
             </div>
-        </div> 
 
-    </div>  -->
+            <div class="bgrid step" data-item="2">
+                <h3>Upload</h3>
+                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+                </p>
+            </div>
+
+            <div class="bgrid step" data-item="3">
+                <h3>Create</h3>
+                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+                </p>
+            </div>
+
+            <div class="bgrid step" data-item="4">
+                <h3>Publish</h3>
+                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+                </p>
+            </div>
+
+        </div>
+    </div>
+    <!-- 
+    <div class="row about-how">
+        <h1 class="intro-header" data-aos="fade-up">How The App Works?</h1>
+    </div> -->
 
     <div class="row about-bottom-image">
 
