@@ -15,14 +15,14 @@
                 </h1>
 
                 <div class="buttons" data-aos="fade-up">
-                    <a href="#download" class="smoothscroll button stroke">
+                    <a onclick="window.open('https://greenonthel.com/onboarding', '_blank');" class="smoothscroll button stroke">
                         <span class="icon-circle-down" aria-hidden="true"></span>
-                        Download App
+                        Try Now
                     </a>
-                    <a href="http://player.vimeo.com/video/14592941?title=0&amp;byline=0&amp;portrait=0&amp;color=39b54a" data-lity class="button stroke">
+                    <!-- <a href="http://player.vimeo.com/video/14592941?title=0&amp;byline=0&amp;portrait=0&amp;color=39b54a" data-lity class="button stroke">
                         <span class="icon-play" aria-hidden="true"></span>
                         Watch Video
-                    </a>
+                    </a> -->
                 </div>
 
             </div>

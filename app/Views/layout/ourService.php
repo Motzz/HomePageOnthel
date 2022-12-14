@@ -5,7 +5,9 @@
             <h1 class="intro-header" data-aos="fade-up">Our Service Options</h1>
 
             <p data-aos="fade-up">
-                <?= $data->our_services; ?>
+                <span style="white-space: pre-line">
+                    <?= $data->our_services; ?>
+                </span>
             </p>
         </div>
 

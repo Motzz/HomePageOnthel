@@ -1,4 +1,4 @@
-<section id="download">
+<!-- <section id="download">
 
     <div class="row">
         <div class="col-full">
@@ -16,4 +16,4 @@
         </div>
     </div>
 
-</section>
+</section> -->

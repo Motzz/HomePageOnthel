@@ -16,7 +16,7 @@
     </div>
 
 
-    <!-- <div class="row about-features">
+    <div class="row about-features">
 
         <div class="features-list block-1-3 block-m-1-2 block-mob-full group">
 
@@ -62,7 +62,7 @@
 
                 </div>
 
-            </div> 
+            </div>
 
             <div class="bgrid feature" data-aos="fade-up">
 
@@ -76,7 +76,7 @@
 
                 </div>
 
-            </div> 
+            </div>
 
             <div class="bgrid feature" data-aos="fade-up">
 
@@ -89,7 +89,7 @@
                     </p>
                 </div>
 
-            </div> 
+            </div>
 
             <div class="bgrid feature" data-aos="fade-up">
 
@@ -105,10 +105,10 @@
 
             </div>
 
-        </div> 
+        </div>
 
-    </div> -->
-    <div class="about-how-content" data-aos="fade-up">
+    </div>
+    <!-- <div class="about-how-content" data-aos="fade-up">
         <div class="about-how-steps block-1-2 block-tab-full group">
 
             <div class="bgrid step" data-item="1">
@@ -136,7 +136,7 @@
             </div>
 
         </div>
-    </div>
+    </div> -->
     <!-- 
     <div class="row about-how">
         <h1 class="intro-header" data-aos="fade-up">How The App Works?</h1>

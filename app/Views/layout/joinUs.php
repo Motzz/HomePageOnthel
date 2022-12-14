@@ -1,4 +1,4 @@
-<section id="testimonials">
+<!-- <section id="testimonials">
 
     <div class="row">
         <div class="col-twelve">
@@ -43,10 +43,31 @@
                     </div>
                 </div>
 
-            </div> <!-- end slides -->
+            </div> 
 
-        </div> <!-- end testimonial-slider -->
+        </div> 
 
-    </div> <!-- end flex-container -->
+    </div> 
+
+</section> -->
+
+<section id="download">
+
+    <div class="row">
+        <div class="col-full">
+            <h1 class="intro-header" data-aos="fade-up">Download Our App Today!</h1>
+
+            <p class="lead" data-aos="fade-up">
+                <span style="white-space: pre-line"><?= $data->join_us; ?></span>
+
+            </p>
+
+            <ul class="download-badges">
+                <li><a href="#" title="" class="badge-appstore" data-aos="fade-up">App Store</a></li>
+                <li><a href="#" title="" class="badge-googleplay" data-aos="fade-up">Play Store</a></li>
+            </ul>
+
+        </div>
+    </div>
 
 </section>
