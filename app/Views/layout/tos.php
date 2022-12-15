@@ -49,10 +49,10 @@
         <nav id="header-nav-wrap">
             <ul class="header-main-nav">
                 <li><a href="/" title="home">Home</a></li>
-                <!-- <li><a href="/" class="smoothscroll" title="about">Our Mission</a></li>
-                <li><a href="/" class="smoothscroll" title="pricing">Our Service</a></li>
-                <li><a href="/" class="smoothscroll" title="testimonials">Join Us</a></li> -->
-                <!-- <li><a class="smoothscroll" href="#download" title="download">Blog</a></li> -->
+                <li><a href="/" title="home">Home</a></li>
+                <li><a href="<?= base_url('/#about'); ?>" title="about">Our Mission</a></li>
+                <li><a href="/" title="pricing">Our Service</a></li>
+                <li><a href="/" title="testimonials">Join Us</a></li>
                 <li><a href="<?= base_url('/blog'); ?>" title="Blog" style="color: #f2c94c;">Terms of Service</a></li> <!-- GO TO BLOG -->
             </ul>
 
