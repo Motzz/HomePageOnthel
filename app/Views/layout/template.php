@@ -70,10 +70,6 @@
     <!-- end testimonials -->
 
 
-    <!-- download
-    ================================================== -->
-    <?= $this->include("layout/blog"); ?>
-    <!-- end download -->
 
 
     <!-- footer

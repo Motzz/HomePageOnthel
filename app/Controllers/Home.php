@@ -15,4 +15,22 @@ class Home extends BaseController
             'data' => $data,
         ]);
     }
+    public function blog()
+    {
+
+
+        return view('layout/blog', []);
+    }
+    public function tos()
+    {
+
+
+        return view('layout/tos', []);
+    }
+    public function privasi()
+    {
+
+
+        return view('layout/privasi', []);
+    }
 }

@@ -1144,7 +1144,7 @@ h1.intro-header::before {
 .header-logo {
   position: absolute;
   left: 40px;
-  top: 90%;
+  top: 55%;
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
@@ -1336,7 +1336,8 @@ h1.intro-header::before {
   .header-logo {
     position: absolute;
     left: 40px;
-    top: 70%;
+    top: 30%;
+
     transform: translateY(-50%);
 
     z-index: 501;

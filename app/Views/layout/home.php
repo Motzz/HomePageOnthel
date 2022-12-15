@@ -14,17 +14,22 @@
                     Amazing Delivery App.
                 </h1>
 
+
                 <div class="buttons" data-aos="fade-up">
                     <a onclick="window.open('https://greenonthel.com/onboarding', '_blank');" class="smoothscroll button stroke">
                         <span class="icon-circle-down" aria-hidden="true"></span>
                         Try Now
                     </a>
-                    <!-- <a href="http://player.vimeo.com/video/14592941?title=0&amp;byline=0&amp;portrait=0&amp;color=39b54a" data-lity class="button stroke">
-                        <span class="icon-play" aria-hidden="true"></span>
-                        Watch Video
-                    </a> -->
-                </div>
 
+                </div>
+                <br>
+                <a href="<?= base_url('/tos'); ?>">
+                    <h5 style="color: white;">Terms of Service</h5>
+                </a>
+                <a href="<?= base_url('/privasi'); ?>">
+                    <h5 style="color: white;">Privacy Policy</h5>
+
+                </a>
             </div>
 
             <div class="home-image-right">

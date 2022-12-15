@@ -1,7 +1,7 @@
 <header id="header" class="row">
     <div class="header-logo">
-        <img src="images/logoOnthel.png" alt="" width="50" height="50">
-        <a href="index.html">Onthel</a>
+        <a href="/"><img src="images/logoOnthel.png" alt="" width="50" height="50"></a>
+
     </div>
 
     <nav id="header-nav-wrap">
@@ -11,7 +11,11 @@
             <li><a class="smoothscroll" href="#pricing" title="pricing">Our Service</a></li>
             <li><a class="smoothscroll" href="#download" title="testimonials">Join Us</a></li>
             <!-- <li><a class="smoothscroll" href="#download" title="download">Blog</a></li> -->
-            <li><a class="smoothscroll" href="#" title="Blog">Blog</a></li> <!-- GO TO BLOG -->
+            <li><a href="<?= base_url('/blog'); ?>" title="Blog">Blog</a></li> <!-- GO TO BLOG -->
+            <!-- <li><a href="<?= base_url('/blog'); ?>" title="Blog">Terms of Service</a></li> 
+
+            <li><a href="<?= base_url('/blog'); ?>" title="Blog">Privacy Policy</a></li> -->
+
         </ul>
 
         <!-- <a href="#" title="sign-up" class="button button-primary cta">Sign Up</a> -->

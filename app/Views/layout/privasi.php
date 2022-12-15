@@ -53,7 +53,7 @@
                 <li><a href="/" class="smoothscroll" title="pricing">Our Service</a></li>
                 <li><a href="/" class="smoothscroll" title="testimonials">Join Us</a></li> -->
                 <!-- <li><a class="smoothscroll" href="#download" title="download">Blog</a></li> -->
-                <li><a href="<?= base_url('/blog'); ?>" title="Blog" style="color: #f2c94c;">Blog</a></li> <!-- GO TO BLOG -->
+                <li><a href="<?= base_url('/blog'); ?>" title="Blog" style="color: #f2c94c;">Privacy Policy</a></li> <!-- GO TO BLOG -->
             </ul>
 
             <!-- <a href="#" title="sign-up" class="button button-primary cta">Sign Up</a> -->
@@ -68,7 +68,7 @@
         <div class="row about-intro">
             <br>
             <div class="col-four">
-                <h1 class="intro-header" data-aos="fade-up">Blog</h1>
+                <h1 class="intro-header" data-aos="fade-up">Privacy Policy</h1>
             </div>
             <div class="col-eight">
                 <p class="lead" data-aos="fade-up">
