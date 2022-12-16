@@ -49,9 +49,9 @@
         <nav id="header-nav-wrap">
             <ul class="header-main-nav">
                 <li><a href="/" title="home">Home</a></li>
-                <li><a href="<?= base_url('/#about'); ?>" title="Our Mission">Our Mission</a></li>
+                <!-- <li><a href="<?= base_url('/#about'); ?>" title="Our Mission">Our Mission</a></li>
                 <li><a href="/" title="Our Service">Our Service</a></li>
-                <li><a href="/" title="Join Us">Join Us</a></li>
+                <li><a href="/" title="Join Us">Join Us</a></li> -->
                 <li><a href="<?= base_url('/privasi'); ?>" title="Privacy Policy" style="color: #f2c94c;">Privacy Policy</a></li> <!-- GO TO BLOG -->
             </ul>
 
