@@ -10,7 +10,7 @@
     <!--- basic page needs
    ================================================== -->
     <meta charset="utf-8">
-    <title>Onthel</title>
+    <title>Onthel | Privacy Policy</title>
     <meta name="description" content="">
     <meta name="author" content="">
 
@@ -31,8 +31,10 @@
 
     <!-- favicons
 	================================================== -->
-    <link rel="shortcut icon" href="favicon.ico" type="<?= base_url('image/x-icon') ?>">
-    <link rel="icon" href="favicon.ico" type="<?= base_url('image/x-icon') ?>">
+    <!-- <link rel="shortcut icon" href="favicon.ico" type="<?= base_url('image/x-icon') ?>">
+    <link rel="icon" href="favicon.ico" type="<?= base_url('image/x-icon') ?>"> -->
+    <link rel="icon" href="<?= base_url('images/logoOnthel.png') ?>" type="image/png">
+
 
 </head>
 
@@ -72,7 +74,7 @@
             <div class="col-eight">
                 <p class="lead" data-aos="fade-up">
 
-                    <span style="white-space: pre-line"><?= $data->our_mission; ?></span>
+                    <span style="white-space: pre-line"><?= $data->privacy_policy; ?></span>
                 </p>
             </div>
 
@@ -85,7 +87,35 @@
 
                 <div class="bgrid feature" data-aos="fade-up">
 
-                    <span class="icon"><i class="icon-window"></i></span>
+                    <!-- <span class="icon"><i class="icon-window"></i></span> -->
+
+                    <div class="service-content">
+
+                        <h3>Fully Resposive</h3>
+
+                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+                        </p>
+
+                    </div>
+
+                </div>
+                <div class="bgrid feature" data-aos="fade-up">
+
+                    <!-- <span class="icon"><i class="icon-window"></i></span> -->
+
+                    <div class="service-content">
+
+                        <h3>Fully Resposive</h3>
+
+                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+                        </p>
+
+                    </div>
+
+                </div>
+                <div class="bgrid feature" data-aos="fade-up">
+
+                    <!-- <span class="icon"><i class="icon-window"></i></span> -->
 
                     <div class="service-content">
 
@@ -98,75 +128,6 @@
 
                 </div>
 
-                <div class="bgrid feature" data-aos="fade-up">
-
-                    <span class="icon"><i class="icon-image"></i></span>
-
-                    <div class="service-content">
-                        <h3>Retina Ready</h3>
-
-                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-                        </p>
-
-
-                    </div>
-
-                </div>
-
-                <div class="bgrid feature" data-aos="fade-up">
-
-                    <span class="icon"><i class="icon-paint-brush"></i></span>
-
-                    <div class="service-content">
-                        <h3>Stylish Design</h3>
-
-                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-                        </p>
-
-                    </div>
-
-                </div>
-
-                <div class="bgrid feature" data-aos="fade-up">
-
-                    <span class="icon"><i class="icon-file"></i></span>
-
-                    <div class="service-content">
-                        <h3>Clean Code</h3>
-
-                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-                        </p>
-
-                    </div>
-
-                </div>
-
-                <div class="bgrid feature" data-aos="fade-up">
-
-                    <span class="icon"><i class="icon-sliders"></i></span>
-
-                    <div class="service-content">
-                        <h3>Easy To Customize</h3>
-
-                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-                        </p>
-                    </div>
-
-                </div>
-
-                <div class="bgrid feature" data-aos="fade-up">
-
-                    <span class="icon"><i class="icon-gift"></i></span>
-
-                    <div class="service-content">
-                        <h3>Free of Charge</h3>
-
-                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-                        </p>
-
-                    </div>
-
-                </div>
 
             </div>
 

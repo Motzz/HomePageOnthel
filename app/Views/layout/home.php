@@ -31,10 +31,10 @@
 
                 </a>
             </div>
-
+            <!-- 
             <div class="home-image-right">
                 <img src="images/iphone-app-470.png" srcset="images/iphone-app-470.png 1x, images/iphone-app-940.png 2x" data-aos="fade-up">
-            </div>
+            </div> -->
         </div>
 
     </div> <!-- end home-content -->

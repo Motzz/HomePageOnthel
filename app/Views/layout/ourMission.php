@@ -142,12 +142,13 @@
         <h1 class="intro-header" data-aos="fade-up">How The App Works?</h1>
     </div> -->
 
-    <div class="row about-bottom-image">
+    <!-- <div class="row about-bottom-image">
 
         <img src="images/app-screens-1200.png" srcset="images/app-screens-600.png 600w, 
                 images/app-screens-1200.png 1200w, 
                 images/app-screens-2800.png 2800w" sizes="(max-width: 2800px) 100vw, 2800px" alt="App Screenshots" data-aos="fade-up">
 
-    </div> <!-- end about-bottom-image -->
+    </div>  -->
+    <!-- end about-bottom-image -->
 
 </section>

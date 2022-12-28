@@ -10,7 +10,7 @@
     <!--- basic page needs
    ================================================== -->
     <meta charset="utf-8">
-    <title>Onthel</title>
+    <title>Onthel | Home</title>
     <meta name="description" content="">
     <meta name="author" content="">
 
@@ -31,8 +31,10 @@
 
     <!-- favicons
 	================================================== -->
-    <link rel="shortcut icon" href="favicon.ico" type="<?= base_url('image/x-icon') ?>">
-    <link rel="icon" href="favicon.ico" type="<?= base_url('image/x-icon') ?>">
+    <!-- <link rel="shortcut icon" href="favicon.ico" type="<?= base_url('image/x-icon') ?>">
+    <link rel="icon" href="favicon.ico" type="<?= base_url('image/x-icon') ?>"> -->
+    <link rel="icon" href="<?= base_url('images/logoOnthel.png') ?>" type="image/png">
+
 
 </head>
 
